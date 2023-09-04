@@ -1,5 +1,3 @@
-# itmd-361-fall2023-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
